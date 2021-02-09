@@ -37,7 +37,7 @@ May 2020 - Current
 * Broad understanding of threat intelligence formats and conversion techniques (MISP/Mitre Attack/TAXII/STIX)
 * Use of relational graphs for both supervised and unsupervised machine learning modeling of extracted features from raw samples and threat intel
 * Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis of malware and extracted firmware.
-* Remote/Telecommute from home office
+* Remote/Telecommuted from home office
 
 **Northrop Grumman - Cincinnati, OH** - Cyber Security Intern
 
@@ -55,7 +55,7 @@ Februrary 2018 - May 2019
 * Used collated information to identify, analyze, and report events that occur or might occur within the network to protect information, information systems, and networks from threats.
 * Security Information and Event Management (SIEM)
 * Incident Response/Policy Creation
-* Remote/Telecommute from home office
+* Remote/Telecommuted from home office
 
 **Dakota State University - Madison, SD** - Volunteer TA
 
