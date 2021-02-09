@@ -2,9 +2,7 @@
 layout: default
 ---
 
-> Only put off till tomorrow what you are willing to die having left undone. 
-> 
-> ~ *Pablo Picasso*
+> Only put off till tomorrow what you are willing to die having left undone. Pretty much everything then.
 
 ## About Me
 
