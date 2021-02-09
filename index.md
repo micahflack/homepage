@@ -2,6 +2,8 @@
 layout: default
 ---
 
+> Only put off till tomorrow what you are willing to die having left undone.
+
 ## About Me
 
 <img class="profile-picture" src="profile.png">
@@ -97,10 +99,6 @@ Year | Category  | Description
 2014 | Satellite | Won Best Actor miniseries or television film
 
 ---
-
-> Only put off till tomorrow what you are willing to die having left undone.
-
-Pablo Picaso, or something.
 
 ## References
 
