@@ -1,5 +1,7 @@
-_layouts/
-_sass/
+_site
+.sass-cache
+.sass_cache/
+.DS_Store
 CNAME
 _config.yml
 contact.md
