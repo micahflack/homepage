@@ -12,7 +12,7 @@ I have an orange tabby named, [Clover](clover.jpg). The #1 love of my life 🐱.
 
 ## Research Interest
 
-🚧 🚧 🚧 WORK IN PROGRESS 🚧 🚧 🚧
+🚧 🚧 🚧 Construction Zone 🚧 🚧 🚧
 
 ## Education
 
