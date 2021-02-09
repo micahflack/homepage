@@ -3,9 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [mail@micahflack.com](mailto:mail@micahflack.com)
+## Contact Info
 
-* Phone: [+1218-252-9797](tel:+1218-252-9797)
+Email: [mail@micahflack.com](mailto:mail@micahflack.com)
+
+Phone: [+1218-252-9797](tel:+1218-252-9797)
 
 ---
 

@@ -2,15 +2,16 @@
 layout: default
 ---
 
-> Only put off till tomorrow what you are willing to die having left undone. - *Pablo Picasso*
+> Only put off till tomorrow what you are willing to die having left undone. 
+>   - *Pablo Picasso*
 
 ## About Me
 
 <img class="profile-picture" src="profile.png">
 
-Hello - I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly - cars.
+Hello - I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly - cars (e.g. my [2006 Suzuki Grand Vitara XSport](suzuki.jpg)).
 
-I have an orange tabby named, Clover. The #1 love of my life 🐱.
+I have an orange tabby named, [Clover](clover.jpg). The #1 love of my life 🐱.
 
 ## Research Interest
 
