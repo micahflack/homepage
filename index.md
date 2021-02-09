@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hello! I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly - cars (e.g. my [2006 Suzuki Grand Vitara XSport](suzuki.jpg)).
+Hello! I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly speaking - cars (e.g. my [2006 Suzuki Grand Vitara XSport](suzuki.jpg)).
 
 I have an orange tabby named, [Clover](clover.jpg). The #1 love of my life 🐱.
 
@@ -112,11 +112,12 @@ Year | Category  | Description
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Ask and ye shall receive upon request.
+
+* **[ERRR]** *You do not have sufficient privileges to access this content.*
 
 ---
 
 > Picaso: Only put off till tomorrow what you are willing to die having left undone. 
 >
-> Me: Pretty much everything then.
+> Me: So... Pretty much everything then? huh.
