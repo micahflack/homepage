@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hello - I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are in malware analysis, reverse engineering, and - broadly - cars.
+Hello - I am a Cyber Security Intern @ Idaho National Laboratoy (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly - cars.
 
 I have an orange tabby named, Clover. The #1 love of my life.
 
@@ -17,13 +17,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## Education
 
 **Dakota State University, Madison SD**
+
 M.S. Computer Science
+
 Graduated Fall 2020
+
 GPA 4.0
 
 **Dakota State University, Madison SD**
+
 B.S. Cyber Operations
+
 Graduated Fall 2019
+
 GPA 3.6
 
 ## Experience
