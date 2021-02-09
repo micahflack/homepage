@@ -117,6 +117,6 @@ Year | Category  | Description
 
 ---
 
-> Only put off till tomorrow what you are willing to die having left undone. 
+> Picaso: Only put off till tomorrow what you are willing to die having left undone. 
 >
-> Pretty much everything then.
+> Me: Pretty much everything then.
