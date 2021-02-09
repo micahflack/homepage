@@ -3,7 +3,7 @@ url: "https://micahflack.com"
 baseurl: "/home"
 
 markdown: kramdown
-ins_logo: "./favicon-32x32png"
+#ins_logo: "./favicon-32x32png"
 
 #tracking_id: #
 
