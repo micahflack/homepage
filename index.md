@@ -22,7 +22,7 @@ Graduated Fall 2020
 
 GPA 4.0
 
-**Dakota State University, Madison SD** - B.S. Cyber Operations
+**Dakota State University, Madison, SD** - B.S. Cyber Operations
 
 Graduated Fall 2019
 
