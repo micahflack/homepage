@@ -2,10 +2,6 @@
 layout: default
 ---
 
-> Only put off till tomorrow what you are willing to die having left undone. 
->
-> Pretty much everything then.
-
 ## About Me
 
 <img class="profile-picture" src="profile.png">
@@ -118,3 +114,9 @@ Year | Category  | Description
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+---
+
+> Only put off till tomorrow what you are willing to die having left undone. 
+>
+> Pretty much everything then.
