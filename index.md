@@ -77,7 +77,7 @@ August 2017 - December 2018
 ## Awards
 
 * [Award for Outstanding Undergraduate Research](SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
-* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx) - Dakota State University/NSF
+* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx) - *Dakota State University/NSF*
 
 ## Clubs
 
