@@ -112,7 +112,7 @@ Year | Category  | Description
 
 ## References
 
-Ask and ye shall receive upon request.
+Ask and ye shall receive upon [request](https://micahflack.com/contact/).
 
 * **[ERRR]** *You do not have sufficient privileges to access this content.*
 
