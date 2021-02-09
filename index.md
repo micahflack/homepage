@@ -49,7 +49,7 @@ May 2019 - August 2019
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
 * Held an interim top-secret clearance
 
-**First Financial Bank USA - Sioux Falls, SD** - Cyber Security Analyst
+**1st Financial Bank USA - Sioux Falls, SD** - Cyber Security Analyst
 
 Februrary 2018 - May 2019
 
