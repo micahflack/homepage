@@ -16,7 +16,7 @@ I have an orange tabby named, [Clover](clover.jpg). The #1 love of my life 🐱.
 
 ## Education
 
-**Dakota State University, Madison SD** - M.S. Computer Science
+**Dakota State University, Madison, SD** - M.S. Computer Science
 
 Graduated Fall 2020
 
