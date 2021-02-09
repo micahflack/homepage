@@ -1,5 +1,6 @@
 ---
 layout: default
+title: micahflack.com
 is_contact: true
 ---
 
