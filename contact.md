@@ -14,7 +14,7 @@ Phone: [+1218-252-9797](tel:+1218-252-9797)
 
 ## Mailing Address
 
-> 36360 County 39
+> XXXXX XXXXX XX
 >
 > Laporte, MN 56461
 >
