@@ -3,6 +3,7 @@ layout: default
 ---
 
 > Only put off till tomorrow what you are willing to die having left undone. 
+> 
 > ~ *Pablo Picasso*
 
 ## About Me
@@ -66,7 +67,7 @@ January 2018 - Spring 2019
 
 * CSC-304 Assembly Language
 
-**Dakota State University - Madison, SD** - Student Researcher
+**Dakota State University - Madison, SD** - Cyclops Student Researcher
 
 August 2017 - December 2018
 
@@ -88,8 +89,11 @@ I am the founder and current President of Malwr Club (est. 2020) @ Dakota State 
 
 Some relevant links:
 
-[Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club) 
+[Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club)
 
+And I participated as a member of [DefSec](https://defsec.club/) @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition which placed fourth out of 70 teams nation-wide. [Team Picture](cyberforce.jpg).
+
+I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](ISEAGE.jpg).
 
 ## Publications
 
