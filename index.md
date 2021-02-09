@@ -36,7 +36,7 @@ May 2020 - Current
 
 * Broad understanding of threat intelligence formats and conversion techniques (MISP/Mitre Attack/TAXII/STIX)
 * Use of relational graphs for both supervised and unsupervised machine learning modeling of extracted features from raw samples and threat intel
-* Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis ofmalware and extracted firmware.
+* Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis of malware and extracted firmware.
 * Remote/Telecommute from home office
 
 **Northrop Grumman - Cincinnati, OH** - Cyber Security Intern
