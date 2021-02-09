@@ -86,7 +86,7 @@ August 2017 - December 2018
 
 ## Clubs
 
-I am a founder and current President of Malwr Club @ Dakota State University since the fall semester of 2020. Some relevant links:
+I am the founder and current President of Malwr Club (est. 2020) @ Dakota State University. Some relevant links:
 
 [Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club) 
 
