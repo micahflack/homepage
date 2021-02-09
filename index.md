@@ -87,7 +87,7 @@ Some relevant links:
 
 [Website](https://malwr.club){:target="_blank"} | [Youtube](https://youtube.malwr.club){:target="_blank"} | [Google Drive](https://drive.malwr.club){:target="_blank"}
 
-And I participated as a member of [DefSec](https://defsec.club/){:target="_blank"} @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Picture](cyberforce.jpg){:target="_blank"}.
+And I participated as a member of [DefSec](https://defsec.club/){:target="_blank"} @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](cyberforce.jpg){:target="_blank"}.
 
 I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](ISEAGE.jpg){:target="_blank"}.
 
