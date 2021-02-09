@@ -33,7 +33,7 @@
         <link rel="manifest" href="/site.webmanifest">
     {% endif %}
     {% if site.twitter_username %}
-        <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
+        <link rel="author" href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
     {% endif %}
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="{{ desc }}">
@@ -63,13 +63,13 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="https://micahflack.com/">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="https://micahflack.com/" target="_blank">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}" target="_blank">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}" target="_blank">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
                         /
@@ -89,7 +89,7 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                    <a href="{{ site.footer_url }}" style="color: black" target="_blank"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
