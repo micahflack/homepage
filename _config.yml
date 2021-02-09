@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://micahflack.com"
-baseurl: "/home"
+baseurl: ""
 
 markdown: kramdown
 ins_logo: "./favicon-32x32png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/home/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
