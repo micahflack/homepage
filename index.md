@@ -33,7 +33,7 @@ GPA 3.6
 
 ## Experience
 
-**Idaho National Laboratory - Idaho Falls, ID**
+**Idaho National Laboratory - Idaho Falls, ID** - Cyber Security Intern
 
 May 2020 - Current
 
@@ -42,7 +42,7 @@ May 2020 - Current
 * Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis ofmalware and extracted firmware.
 * Remote/Telecommute from home office
 
-**Northrop Grumman - Cincinnati, OH**
+**Northrop Grumman - Cincinnati, OH** - Cyber Security Intern
 
 May 2019 - August 2019
 
@@ -51,7 +51,7 @@ May 2019 - August 2019
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
 * Held an interim top-secret clearance
 
-**First Financial Bank USA - Sioux Falls, SD**
+**First Financial Bank USA - Sioux Falls, SD** - Cyber Security Analyst
 
 Februrary 2018 - May 2019
 
@@ -60,13 +60,13 @@ Februrary 2018 - May 2019
 * Incident Response/Policy Creation
 * Remote/Telecommute from home office
 
-**Dakota State University - Madison, SD**
+**Dakota State University - Madison, SD** - Volunteer TA
 
 January 2018 - Spring 2019
 
 * CSC-304 Assembly Language
 
-**Dakota State University - Madison, SD**
+**Dakota State University - Madison, SD** - Student Researcher
 
 August 2017 - December 2018
 
@@ -79,11 +79,14 @@ August 2017 - December 2018
 
 ## Awards
 
-* SFS CyberCorps Scholarship - Dakota State University/NSF
+* [Award for Outstanding Undergraduate Research](SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
+* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx) - Dakota State University/NSF
 
 ## Clubs
 
-I am the founder and current President of Malwr Club (est. 2020) @ Dakota State University. Some relevant links:
+I am the founder and current President of Malwr Club (est. 2020) @ Dakota State University. 
+
+Some relevant links:
 
 [Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club) 
 
@@ -101,9 +104,9 @@ Collection of some of my projects over the years.
 
 Year | Category  | Description
 -----|-----------|------------
-2014 | Emmy      | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA     | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2014 | xxxx      | Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+2015 | xxxx      | Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+2014 | xxxx      | Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
