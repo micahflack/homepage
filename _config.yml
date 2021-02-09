@@ -1,1 +1,24 @@
-theme: jekyll-theme-architect
+title: Researcher
+url: "https://micahflack.com"
+baseurl: "/home"
+
+markdown: kramdown
+ins_logo: "./favicon-32x32png"
+
+#tracking_id: #
+
+footer: no
+#footer_url: ""
+#footer_text: ""
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/home/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
