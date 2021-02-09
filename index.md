@@ -19,17 +19,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Education
 
-**Dakota State University, Madison SD**
-
-M.S. Computer Science
+**Dakota State University, Madison SD** - M.S. Computer Science
 
 Graduated Fall 2020
 
 GPA 4.0
 
-**Dakota State University, Madison SD**
-
-B.S. Cyber Operations
+**Dakota State University, Madison SD** - B.S. Cyber Operations
 
 Graduated Fall 2019
 
