@@ -24,6 +24,6 @@ Phone: [+1218-252-9797](tel:+1218-252-9797)
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/micah-flack/)
-2. [Twitter](https://twitter.com/FlackMicah)
-3. [Github](https://github.com/micahflack)
+1. [LinkedIn](https://www.linkedin.com/in/micah-flack/){:target="_blank"}
+2. [Twitter](https://twitter.com/FlackMicah){:target="_blank"}
+3. [Github](https://github.com/micahflack){:target="_blank"}
