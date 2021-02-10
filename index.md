@@ -78,7 +78,7 @@ August 2017 - December 2018
 ## Awards
 
 * [Award for Outstanding Undergraduate Research](images/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
-* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx) - *Dakota State University/NSF, 2018-20*
+* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx){:target="_blank"} - *Dakota State University/NSF, 2018-20*
 
 ## Clubs
 
@@ -86,18 +86,18 @@ I am the founder and current President of Malwr Club (est. 2020) @ Dakota State 
 
 Some relevant links:
 
-[Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club)
+[Website](https://malwr.club){:target="_blank"} | [Youtube](https://youtube.malwr.club){:target="_blank"} | [Google Drive](https://drive.malwr.club){:target="_blank"}
 
-And I participated as a member of [DefSec](https://defsec.club/) @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](images/cyberforce.jpg).
+And I participated as a member of [DefSec](https://defsec.club/){:target="_blank"} @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](images/cyberforce.jpg).
 
 I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](images/ISEAGE.jpg).
 
 ## Publications
 
-1. Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](http://scholar.dsu.edu/research-symposium/25)
-2. Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](http://scholar.dsu.edu/research-symposium/28)
-3. Flack, M; Foster, R: [*Clustering Analysis of Binaries Across Compiler Optimizations*](docs/intern-project-poster.pdf)
-4. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/inal-draft.pdf)
+1. Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](http://scholar.dsu.edu/research-symposium/25){:target="_blank"}
+2. Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](http://scholar.dsu.edu/research-symposium/28){:target="_blank"}
+3. Flack, M; Foster, R: [*Clustering Analysis of Binaries Across Compiler Optimizations*](docs/intern-project-poster.pdf){:target="_blank"}
+4. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/inal-draft.pdf){:target="_blank"}
 
 ## Projects
 
