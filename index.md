@@ -11,16 +11,9 @@ Hello! I am a Cyber Security Intern @ Idaho National Laboratory (INL) who recent
 
 I have an orange tabby named, [Clover](clover.jpg){:target="_blank"}. The #1 love of my life 🦁.
 
-<details>
-<summary>
-
 ## Research Interest
 
-</summary>
-
 🚧 🚧 🚧 CONSTRUCTION ZONE 🚧 🚧 🚧
-
-</details>
 
 ## Education
 
