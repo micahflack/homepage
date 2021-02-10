@@ -5,11 +5,11 @@ title: micahflack.com
 
 ## About Me
 
-<img class="profile-picture" src="profile.png">
+<img class="profile-picture" src="images/profile.png">
 
-Hello! I am a Cyber Security Intern @ Idaho National Laboratory (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly speaking - cars (e.g. my [2006 Suzuki Grand Vitara XSport](suzuki.jpg)).
+Hello! I am a Cyber Security Intern @ Idaho National Laboratory (INL) who recently graduated from Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly speaking - cars (e.g. my [2006 Suzuki Grand Vitara XSport](images/suzuki.jpg)).
 
-I have an orange tabby named, [Clover](clover.jpg). The #1 love of my life 🦁.
+I have an orange tabby named, [Clover](images/clover.jpg). The #1 love of my life 🦁.
 
 ## Research Interest
 
@@ -77,7 +77,7 @@ August 2017 - December 2018
 
 ## Awards
 
-* [Award for Outstanding Undergraduate Research](SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
+* [Award for Outstanding Undergraduate Research](images/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
 * [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx) - *Dakota State University/NSF, 2018-20*
 
 ## Clubs
@@ -88,16 +88,16 @@ Some relevant links:
 
 [Website](https://malwr.club) | [Youtube](https://youtube.malwr.club) | [Google Drive](https://drive.malwr.club)
 
-And I participated as a member of [DefSec](https://defsec.club/) @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](cyberforce.jpg).
+And I participated as a member of [DefSec](https://defsec.club/) @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](images/cyberforce.jpg).
 
-I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](ISEAGE.jpg).
+I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](images/ISEAGE.jpg).
 
 ## Publications
 
 1. Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](http://scholar.dsu.edu/research-symposium/25)
 2. Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](http://scholar.dsu.edu/research-symposium/28)
-3. Flack, M; Foster, R: [*Clustering Analysis of Binaries Across Compiler Optimizations*](intern-project-poster.pdf)
-4. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](final-draft.pdf)
+3. Flack, M; Foster, R: [*Clustering Analysis of Binaries Across Compiler Optimizations*](docs/intern-project-poster.pdf)
+4. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/inal-draft.pdf)
 
 ## Projects
 
