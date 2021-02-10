@@ -20,6 +20,8 @@ nav:
    link: "docs/resume.pdf"
  - name: "Publications"
    link: "#publications"
+ - name: "Projects"
+   link: "#projects"
  - name: "Contact"
    link: "contact"
 
