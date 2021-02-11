@@ -19,7 +19,7 @@ I have an orange tabby named, [Clover](images/clover.jpg). The #1 love of my lif
 
 **M.S. Computer Science**
 
-Dakota State University, Madison, SD
+[Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Graduated Fall 2020
 
@@ -27,7 +27,7 @@ GPA 4.0
 
 **B.S. Cyber Operations**
 
-Dakota State University, Madison, SD
+[Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Graduated Fall 2019
 
