@@ -36,7 +36,7 @@ GPA 3.6
 ## Experience
 
 **Cyber Security Intern**
-Idaho National Laboratory - Idaho Falls, ID
+[Idaho National Laboratory](https://inl.gov/){:target="_blank"} - Idaho Falls, ID
 
 May 2020 - Current
 
@@ -47,7 +47,7 @@ May 2020 - Current
 
 **Cyber Security Intern**
 
-Northrop Grumman - Cincinnati, OH
+[Northrop Grumman](https://www.northropgrumman.com/){:target="_blank"} - Cincinnati, OH
 
 May 2019 - August 2019
 
@@ -58,7 +58,7 @@ May 2019 - August 2019
 
 **Cyber Security Analyst**
 
-1st Financial Bank USA - Sioux Falls, SD
+[1st Financial Bank USA](https://www.1fbusa.com/fscm/){:target="_blank"} - Sioux Falls, SD
 
 Februrary 2018 - May 2019
 
@@ -69,7 +69,7 @@ Februrary 2018 - May 2019
 
 **Volunteer TA**
 
-Dakota State University - Madison, SD
+[Dakota State University](https://www.dsu.edu/){:target="_blank"} - Madison, SD
 
 January 2018 - Spring 2019
 
@@ -77,7 +77,7 @@ January 2018 - Spring 2019
 
 **Cyclops Student Researcher**
 
-Dakota State University - Madison, SD
+[Dakota State University](https://www.dsu.edu/){:target="_blank"} - Madison, SD
 
 August 2017 - December 2018
 
