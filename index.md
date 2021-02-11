@@ -36,6 +36,7 @@ GPA 3.6
 ## Experience
 
 **Cyber Security Intern**
+
 [Idaho National Laboratory](https://inl.gov/){:target="_blank"} - Idaho Falls, ID
 
 May 2020 - Current
