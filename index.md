@@ -17,13 +17,17 @@ I have an orange tabby named, [Clover](images/clover.jpg). The #1 love of my lif
 
 ## Education
 
-**Dakota State University, Madison, SD** - M.S. Computer Science
+**M.S. Computer Science**
+
+Dakota State University, Madison, SD
 
 Graduated Fall 2020
 
 GPA 4.0
 
-**Dakota State University, Madison, SD** - B.S. Cyber Operations
+**B.S. Cyber Operations**
+
+Dakota State University, Madison, SD
 
 Graduated Fall 2019
 
@@ -31,7 +35,8 @@ GPA 3.6
 
 ## Experience
 
-**Idaho National Laboratory - Idaho Falls, ID** - Cyber Security Intern
+**Cyber Security Intern**
+Idaho National Laboratory - Idaho Falls, ID
 
 May 2020 - Current
 
@@ -40,7 +45,9 @@ May 2020 - Current
 * Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis of malware and extracted firmware.
 * Remote/Telecommuted from home office
 
-**Northrop Grumman - Cincinnati, OH** - Cyber Security Intern
+**Cyber Security Intern**
+
+Northrop Grumman - Cincinnati, OH
 
 May 2019 - August 2019
 
@@ -49,7 +56,9 @@ May 2019 - August 2019
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
 * Held an interim top-secret clearance
 
-**1st Financial Bank USA - Sioux Falls, SD** - Cyber Security Analyst
+**Cyber Security Analyst**
+
+1st Financial Bank USA - Sioux Falls, SD
 
 Februrary 2018 - May 2019
 
@@ -58,13 +67,17 @@ Februrary 2018 - May 2019
 * Incident Response/Policy Creation
 * Remote/Telecommuted from home office
 
-**Dakota State University - Madison, SD** - Volunteer TA
+**Volunteer TA**
+
+Dakota State University - Madison, SD
 
 January 2018 - Spring 2019
 
 * CSC-304 Assembly Language
 
-**Dakota State University - Madison, SD** - Cyclops Student Researcher
+**Cyclops Student Researcher**
+
+Dakota State University - Madison, SD
 
 August 2017 - December 2018
 
